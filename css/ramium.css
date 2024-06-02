@@ -283,11 +283,11 @@ kbd {
 
 /* 404 */
 
-.container{
+.container-404{
     height: 100vh;
     display: flex;
 }
 
-.container h1{
+.container-404 h1{
     margin: auto;
 }
